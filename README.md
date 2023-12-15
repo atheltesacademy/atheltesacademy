@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @atheltesacademy
+- 👋 Hi, @atheltesacademy
 - 👀 We are interested in sports domain
 - 🌱 I’m currently learning and upgrading 
 - 💞️ I’m looking to collaborate on AI
